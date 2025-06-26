@@ -5,11 +5,11 @@
 ## 👀 About Me  
 - 🔭 I’m currently working on Frontend development projects
 - 🌱 I’m learning JavaScript, React, and backend development
-- 🛡️ Interested in cybersecurity & ethical hacking 
+- 🛡️ Always exploring the latest trends in web development and modern tech stacks
 - 💡 Passionate about problem-solving and competitive programming  
 
 ## 💞️ Collaboration  
-- Always open to collaborating on open-source projects, web applications, and security-related projects 
+- I love teaming up on open-source, creative frontend ideas, and building real-world web apps together.
 - Looking to connect with like-minded developers and tech enthusiasts 
 
 ## 📫 Reach Me  
@@ -17,7 +17,7 @@
 - 💼 LinkedIn: www.linkedin.com/in/asfandyar100
   
 ## ⚡ Fun Fact  
-- I love solving CTF challenges and exploring AI in cybersecurity 
+- I enjoy building features that make users go “Whoa, that’s smooth!”
 - When I'm not coding, you’ll find me at the gym or learning new tech trends  
 
 ---
