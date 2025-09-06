@@ -4,7 +4,7 @@
 
 ## 👀 About Me  
 - 🔭 I’m currently working on **Frontend Development Projects**  
-- 🌱 Learning **JavaScript, React, and Backend Development**  
+- 🌱 Learning **JavaScript, React, and Frameworks**  
 - 🛡️ Exploring the latest **Web Development Trends** and **Modern Tech Stacks**  
 - 💡 Passionate about **Problem-Solving** and **Competitive Programming**  
 - ☁️ Currently learning **AWS DevOps** and building my skills in **Cloud Technologies**
