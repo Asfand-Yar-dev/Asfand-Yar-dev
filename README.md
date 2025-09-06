@@ -28,8 +28,12 @@
 - Looking to connect with like-minded developers and tech enthusiasts 
 
 ## 📫 Reach Me  
-- 📧 Email: asfandyar273263@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/asfandyar100
+<a href="mailto:asfandyar273263@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a> 
+<a href="https://www.linkedin.com/in/asfandyar100/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   
 ## ⚡ Fun Fact  
 - I enjoy building features that make users go “Whoa, that’s smooth!”
