@@ -2,11 +2,10 @@
 
 Aspiring GenAI Developer 🤖 | Frontend Hobbyist 💻 | Python Lover 🐍
 
-👀 About Me  
-🔭 Currently diving deep into **Generative AI & LLMs**, building cool AI projects  
-🌱 Sprinkling some **Frontend magic** with JavaScript & React  
-💡 Passionate about **problem-solving, algorithms**, and making tech dope  
-☁️ Exploring **Cloud (AWS) & DevOps**, leveling up my skills one step at a time  
+- 🔭 Currently diving deep into **Generative AI & LLMs**, building cool AI projects  
+- 🌱 Sprinkling some **Frontend magic** with JavaScript & React  
+- 💡 Passionate about **problem-solving, algorithms**, and making tech dope  
+- ☁️ Exploring **Cloud (AWS) & DevOps**, leveling up my skills one step at a time  
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD62E)
 ![LLM](https://img.shields.io/badge/Large%20Language%20Models-8A2BE2?style=for-the-badge&logo=llm&logoColor=white)
