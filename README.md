@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Asfand Yar
 
-Aspiring GenAI Developer 🤖 | Python Lover 🐍 | Frontend Hobbyist 💻
+GenAI Developer 🤖 | Python Lover 🐍 | Frontend Hobbyist 💻
 
 - 🔭 Currently diving deep into **Generative AI & LLMs**, building cool AI projects  
 - 🌱 Sprinkling some **Frontend magic** with JavaScript & React  
