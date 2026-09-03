@@ -1,11 +1,12 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Asfand Yar
 
-GenAI Developer 🤖 | Python Lover 🐍 | Frontend Hobbyist 💻
+AI-First Software Developer 🚀 | GenAI Engineer 🤖 | Python & Backend 🐍
 
-- 🔭 Currently diving deep into **Generative AI & LLMs**, building cool AI projects  
-- 🌱 Sprinkling some **Frontend magic** with JavaScript & React  
-- 💡 Passionate about **problem-solving, algorithms**, and making tech dope  
-- ☁️ Exploring **Cloud (AWS) & DevOps**, leveling up my skills one step at a time  
+- 🔭 Building AI-powered applications with Generative AI, LLMs, RAG pipelines, and AI agents
+- 🛠️ Developing scalable backend systems and APIs using Python, FastAPI, and REST APIs
+- 🧠 Exploring Agentic AI, prompt engineering, LLM integration, and intelligent application workflows
+- 💻 Building modern web applications with React.js, Next.js, and TypeScript
+- 🚀 Interested in system design, software engineering, and production-ready AI systems
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD62E)
 ![LLM](https://img.shields.io/badge/Large%20Language%20Models-8A2BE2?style=for-the-badge&logo=llm&logoColor=white)
